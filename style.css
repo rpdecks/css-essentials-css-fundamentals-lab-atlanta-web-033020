@@ -24,7 +24,11 @@ p #featured-property {
   width: 800px;
 }
 
-div #details {
+#details {
   display: block;
+  float: left;
+}
+
+div p {
   float: left;
 }
