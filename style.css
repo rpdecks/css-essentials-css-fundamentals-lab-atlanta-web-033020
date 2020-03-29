@@ -28,7 +28,8 @@ a {
 #details {
   display: block;
   float: left;
-  text-align: center
+  text-align: center;
+  width: 25%;
 }
 
 div p {
